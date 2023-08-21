@@ -23,7 +23,7 @@ class Conversions:
             'boolean': 'Boolean',
             'date': 'LocalDate',
             'time': 'LocalDateTime',
-            'timestamp': 'LocalDateTime',
+            'timestamp': 'Timestamp',
             'interval': 'Duration',
             'uuid': 'UUID',
         }
