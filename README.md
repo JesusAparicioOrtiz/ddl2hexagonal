@@ -30,3 +30,7 @@ CREATE TABLE table_name (
     CONSTRAINT table_name_fk foreign key (second_table_id) references second_table (second_table_id)
 );
 ```
+## ⚙ Troublehooting
+
+Here are some tips in case you have any errors during the execution of the script:
+* Try to define columns and constraints in a single line each one, without taking up more than one line
